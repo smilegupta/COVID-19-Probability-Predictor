@@ -7,9 +7,10 @@ In the outburst of COVID-19, there is a chance that at a particular hospital alo
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![Flask](https://img.shields.io/badge/framework-flask-lightgray.svg?logo=flask&style=flat-square) 
 ![Python](https://img.shields.io/badge/backend-python-blue.svg?logo=python&style=flat-square) 
-![Flask](https://img.shields.io/badge/database-flask-lightgray.svg?logo=flask&style=flat-square) 
 
 
-- Front End - **HTML**, **CSS**<br>
--
+- Front End - **HTML**, **CSS**
+- Framewrok - **Flask**
+- Back End - **Python**
