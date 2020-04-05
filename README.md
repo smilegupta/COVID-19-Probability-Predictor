@@ -13,4 +13,4 @@ In the outburst of COVID-19, there is a chance that at a particular hospital alo
 
 - Front End - **HTML**, **CSS**
 - Framewrok - **Flask**
-- Back End - **Python**
+- Back End - **Python** Libraries including scikit-learn logistic regression, pandas and NumPy 
