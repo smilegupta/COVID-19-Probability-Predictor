@@ -1,5 +1,6 @@
-# COVID-19
-COVID-19 Probability Predictor 
+# COVID-19 Probability Predictor
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/smilegupta)
 
 In the outburst of COVID-19, there is a chance that at a particular hospital alot of cases may come and it will hard for doctors to prioritize the patients. So during that situation it will help predict that how much percent chances are there for a person that he may be positive or not or need an urgent attention and treatment based on the old stats and linear regression model.
 
